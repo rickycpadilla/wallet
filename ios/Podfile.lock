@@ -95,11 +95,7 @@ PODS:
     - React
   - RNSVG (6.5.2):
     - React
-  - RNVectorIcons/FontAwesome (5.0.0):
-    - React
-  - RNVectorIcons/MaterialCommunityIcons (5.0.0):
-    - React
-  - RNVectorIcons/MaterialIcons (5.0.0):
+  - RNVectorIcons (5.0.0):
     - React
   - SSZipArchive (2.1.4)
   - yoga (0.57.5.React)
@@ -137,9 +133,7 @@ DEPENDENCIES:
   - RNKeychain (from `../node_modules/react-native-keychain`)
   - RNLanguages (from `../node_modules/react-native-languages`)
   - RNSVG (from `../node_modules/react-native-svg`)
-  - RNVectorIcons/FontAwesome (from `../node_modules/react-native-vector-icons`)
-  - RNVectorIcons/MaterialCommunityIcons (from `../node_modules/react-native-vector-icons`)
-  - RNVectorIcons/MaterialIcons (from `../node_modules/react-native-vector-icons`)
+  - RNVectorIcons (from `../node_modules/react-native-vector-icons`)
   - yoga (from `../node_modules/react-native/ReactCommon/yoga`)
 
 SPEC REPOS:
@@ -208,10 +202,10 @@ SPEC CHECKSUMS:
   RNKeychain: 3aa3cf891a09a0d18d306862ab2bb9e106079b24
   RNLanguages: 69291ca9fea686ff96c66a519f92f7e5af1d08ae
   RNSVG: 3c037ade1c42014de732e27e3879bf2b77ea78ea
-  RNVectorIcons: bc4936812e1768faca891acbd6308cb2fd22c810
+  RNVectorIcons: f066f73bf4f25564d7ee7b1bb150e3b431f3a194
   SSZipArchive: 41455d4b8d2b6ab93990820b50dc697c2554a322
   yoga: a5c0ba30ebe82c13612b4c9301ad29708b8978dc
 
-PODFILE CHECKSUM: d2e723de4d2fecaf149a1534e123f4fb1e14f01a
+PODFILE CHECKSUM: dbcdfa1a88db29a68190e5ced4a917f23fef8b00
 
 COCOAPODS: 1.6.0.beta.2
